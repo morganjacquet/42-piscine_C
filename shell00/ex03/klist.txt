@@ -1,0 +1,5 @@
+Credentials cache: API:60053
+        Principal: mojacque@LE-101.FR
+
+  Issued                Expires               Principal
+Jul 29 17:29:00 2019  Aug  5 17:28:53 2019  krbtgt/LE-101.FR@LE-101.FR
